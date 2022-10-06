@@ -1,6 +1,6 @@
-<!--
 ### Hi there 👋
 
+<!--
 - 🔭 I’m currently working on [freedev](https://github.com/lukaskoeller/freedev)
 - 🌱 I’m currently learning aws and how to manage infrastructure as code via pulumi
 
